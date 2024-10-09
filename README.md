@@ -16,7 +16,7 @@ Enjoying this? Help me out with a :beers: or :coffee:!
 
 Additionally if you are looking to sign up to The Modern Milkman and use this integration it would be greatly appreicated if you used this referrer code at checkout.
 
-`ANJU-1-16177E`
+# `ANJU-1-16177E`
 
 
 ## Installation through [HACS](https://hacs.xyz/)
