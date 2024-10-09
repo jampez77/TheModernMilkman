@@ -14,6 +14,10 @@ Enjoying this? Help me out with a :beers: or :coffee:!
 
 [![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/whenitworks)
 
+Additionally if you are looking to sign up to The Modern Milkman and use this integration it would be greatly appreicated if you used this referrer code at checkout.
+
+`ANJU-1-16177E`
+
 
 ## Installation through [HACS](https://hacs.xyz/)
 
