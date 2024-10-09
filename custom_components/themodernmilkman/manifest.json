@@ -1,0 +1,17 @@
+{
+    "domain": "themodernmilkman",
+    "name": "The Modern Milkman",
+    "codeowners": [
+      "@jampez77"
+    ],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/jampez77/TheModernMilkman/",
+    "homekit": {},
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/jampez77/TheModernMilkman/issues",
+    "requirements": [],
+    "ssdp": [],
+    "version": "2024.10.0",
+    "zeroconf": []
+  }
